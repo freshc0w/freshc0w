@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">Software Developer</h3>
 
+<p>I love building things. Web things.</p>
+
 - 🔭 I’m currently working on [uqstudents](https://github.com/freshc0w/uqstudents)
 
 - 👨‍💻 My outdated portfolio [https://freshc0w.github.io/Portfolio/](https://freshc0w.github.io/Portfolio/)
 
 - 📫 How to reach me **https://au.linkedin.com/in/chia-chuan-tsou**
 
-- Work experiences:
+- 📝 Work experiences:
   1. Full-stack developer @ UQ (Jan 2024 - Sept 2024)
   2. Frontend Teaching Assistant (React & React Native) @ UQ (July 2024 - Present)
   3. Software Engineer Intern (OT Systems) @ APA Group (Nov 2023 - Jan 2024)
