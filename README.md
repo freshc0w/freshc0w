@@ -12,10 +12,11 @@
 - 📝 Second year computer science student @ UQ
 
 - 📄 Work experiences:
-  1. Full-stack developer @ UQ (Jan 2024 - Sept 2024)
-  2. Frontend Teaching Assistant (React & React Native) @ UQ (July 2024 - Present)
-  3. Software Engineer Intern (OT Systems) @ APA Group (Nov 2023 - Jan 2024)
-  4. Some freelance stuff for companies like UGL Lmted (2023)
+  1. Software Engineer Intern @ Canva (Dec 2024 - Feb 2024) 2
+  2. . Full-stack developer @ UQ (Jan 2024 - Sept 2024)
+  3. Frontend Teaching Assistant (React & React Native) @ UQ (July 2024 - Present)
+  4. Software Engineer Intern (OT Systems) @ APA Group (Nov 2023 - Jan 2024)
+  5. Some freelance stuff for companies like UGL Lmted (2023)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
