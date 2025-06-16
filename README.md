@@ -3,8 +3,6 @@
 
 <p>I love building things. Web things.</p>
 
-- 🔭 I’m currently working on [uqstudents](https://github.com/freshc0w/uqstudents)
-
 - 👨‍💻 My outdated portfolio [https://freshc0w.github.io/Portfolio/](https://freshc0w.github.io/Portfolio/)
 
 - 📫 How to reach me **https://au.linkedin.com/in/chia-chuan-tsou**
